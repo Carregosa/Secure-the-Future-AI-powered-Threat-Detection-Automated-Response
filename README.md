@@ -58,8 +58,6 @@ Inclui:
 - dashboard
 - aprendizados
 
-Link do vídeo: *adicionar quando disponível*
-
 # 📁 Estrutura do Repositório
 /sentinelia/
 │ README.md  
