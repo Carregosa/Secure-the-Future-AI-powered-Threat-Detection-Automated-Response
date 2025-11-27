@@ -19,6 +19,7 @@ Caso de uso: Criar uma solução que utilize IA para melhorar a segurança, auto
 - Oferecer dashboards de risco em tempo real via Power BI.
 
 # 🏗️ Arquitetura da Solução
+<img width="1536" height="1024" alt="Arquitetura de Soluções" src="https://github.com/user-attachments/assets/6d885b0f-3cfe-4ac6-ad2a-4dca6741f9fd" />
 
 ### 🔹 Componentes Azure Utilizados
 - Microsoft Sentinel
